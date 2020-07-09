@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on building few interesting things. 
+- 🌱 I’m currently learning to stay calmer.
+- 💬 Ask me about Competitive Programming, Software Development, Data Structures and Algorithms or wanna know how i did this hack :P 
+- 📫 How to reach me: Email - pulkitkapoor15@gmail.com Facebook - https://www.facebook.com/pulkit.kapoor.127
+- ⚡ Fun fact: I am misophonic. 
 <!--
 **pulkitkapoor15/pulkitkapoor15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
